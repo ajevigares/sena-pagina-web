@@ -1,0 +1,173 @@
+body{
+
+    background-color:  rgba(211, 104, 62, 0.795);
+}
+#inicio{
+    position: absolute;
+left: 300px;
+top: 50px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: large;
+}
+
+#logo2{
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+#escudo{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+#himno{
+
+    position: absolute;
+    left: 600px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+#bandera{
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+#proyecto{
+    position: absolute;
+    left: 800px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+#induccion{
+    position: absolute;
+    left: 900px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+a{
+    color: rgb(78, 220, 255);
+    text-decoration: none;
+}
+
+a:hover{
+color: brown;
+
+}
+
+#c1 {
+    position: absolute;
+left: -2px;
+top: 10px;
+width: 1340px;
+height: 100px;
+background-color: green;
+}
+
+#texto{
+    position: absolute;
+    left:500px;
+    top: 100px;
+    font-family: 'Ubuntu', sans-serif; 
+}
+
+#texto2{
+    position: absolute;
+    left:100px;
+    top: 170px;
+    font-family: 'Ubuntu', sans-serif; 
+    
+}
+#texto3 {
+    position: absolute;
+    left:100px;
+    top: 230px;
+    font-family: 'Ubuntu', sans-serif;  
+}
+#texto4{
+    position: absolute;
+    left:10px;
+    top: 80px;
+    font-family: 'Ubuntu', sans-serif; 
+  
+}
+
+#enlace2{
+    position: absolute;
+    left:10px;
+    top: 200px;
+    font-family: 'Ubuntu', sans-serif;  
+}
+
+#escudoT{
+    position: absolute;
+    left:10px;
+    top: 300px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#enlace3{
+    position: absolute;
+    left:10px;
+    top: 400px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#logoT{
+    position: absolute;
+    left:10px;
+    top: 500px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#enlace4 {
+
+    position: absolute;
+    left:10px;
+    top: 600px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+#banderaT{
+    position: absolute;
+    left:10px;
+    top: 700px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#enlace5{
+    position: absolute;
+    left:10px;
+    top: 800px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#himnoT{
+    position: absolute;
+    left:10px;
+    top: 900px;
+    font-family: 'Ubuntu', sans-serif;  
+}
+#enlace6{
+    position: absolute;
+    left:10px;
+    top: 1000px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#nombre{
+    position: absolute;
+    left:10px;
+    top: 1500px;
+    font-family: 'Ubuntu', sans-serif;
+}
